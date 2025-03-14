@@ -4,5 +4,4 @@ fn main(){
     println!("pi = {}", pi)
     let x: u128 =173648;
     println!("x = {}", x);
-    
 }
